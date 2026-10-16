@@ -1,0 +1,8 @@
+{
+  "name": "hooky",
+  "version": "1.0.0",
+  "description": "The AI agent that gets your app users from TikTok: makes short videos, sends them to TikTok as drafts, and learns which posts bring revenue.",
+  "author": { "name": "Mario Vega" },
+  "homepage": "https://usehooky.com",
+  "keywords": ["tiktok", "app marketing", "ugc", "short video", "distribution", "growth", "revenuecat", "mcp"]
+}

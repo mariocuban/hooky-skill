@@ -1,0 +1,12 @@
+{
+  "name": "hooky",
+  "owner": { "name": "Mario Vega" },
+  "plugins": [
+    {
+      "name": "hooky",
+      "source": "./",
+      "description": "The AI agent that gets your app users from TikTok: makes short videos, sends them to TikTok as drafts, and learns which posts bring revenue.",
+      "version": "1.0.0"
+    }
+  ]
+}
